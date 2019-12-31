@@ -89,4 +89,4 @@ exclude:
 title: 0xRav3n Blogging
 show_downloads: false
 theme: jekyll-theme-hacker
-paginate: 10
+paginate: 1
