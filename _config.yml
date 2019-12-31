@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Add Theme
+theme: jekyll-theme-hacker
